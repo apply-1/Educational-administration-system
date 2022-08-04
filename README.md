@@ -1,1 +1,0 @@
-# Educational-administration-system
