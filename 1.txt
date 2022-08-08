@@ -1,6 +1,0 @@
-aa 男
-bb 男
-cc 男
-dd 女
-ee 女
-ff 男
